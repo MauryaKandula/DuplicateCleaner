@@ -17,3 +17,8 @@ A lightweight, fast, and user-friendly Windows tool to find and delete duplicate
 ### Option 1: Run with Python
 ```bash
 python duplicate_cleaner.py
+```
+
+## License
+
+MIT licensed; see [LICENCE](LICENCE). Copyright (c) 2024 Kandula Paul Saketh Maurya.
